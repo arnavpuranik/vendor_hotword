@@ -1,8 +1,8 @@
 # Hotword Blobs
 
-Clone and Include:
+Clone and Include the following in your makefile to build.:
 
 ```bash
-$(call inherit-product, vendor/xiaomi/google/google.mk)
+$(call inherit-product, vendor/hotword/hotword.mk)
 ```
-in your makefile to build.
+
